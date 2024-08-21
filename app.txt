@@ -1,17 +1,1 @@
-넌 짱 좋음
-bbbbbbb
-cccc
-ddd
-ff
-g
-asd123
-1234
-123
-1
-
-1111ㅎ
-1
-11
-1
-1
-gggggggㅎㅎ
+Hello world
